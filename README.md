@@ -1,1 +1,3 @@
-# Student Management System
+# Learning Management System
+
+# Student Management System - Git Team Workflow Practical
